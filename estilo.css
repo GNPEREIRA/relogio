@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+}
+
+
+
+body{
+    background: cadetblue;
+    font: normal 20pt Arial;
+}
+
+
+footer{
+    font-style: italic;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    height: 450px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.616);
+}
+
+div{
+    text-align: center;
+}
+
+.cabecalho,
+.rodape{
+    color: white;
+    text-align: center;
+}
+
+
+
